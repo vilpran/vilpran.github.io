@@ -294,7 +294,7 @@ defaults:
   # _pages
   - scope:
       path: "https://github.com/vilpran/vilpran.github.io/edit/master/aboutme.md"
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
