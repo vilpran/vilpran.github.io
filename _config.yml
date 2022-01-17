@@ -293,7 +293,7 @@ defaults:
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "https://github.com/vilpran/vilpran.github.io/edit/master/aboutme.md"
       type: pages
     values:
       layout: single
