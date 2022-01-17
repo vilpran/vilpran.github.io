@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: CV
 image: /assets/images/mycv.jpg
 ---
