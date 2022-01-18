@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CV
-image: /assets/images/mycv.jpg
+image: /assets/images/CV.png
 author_profile: true
 ---
 ![]({{page.image}})
