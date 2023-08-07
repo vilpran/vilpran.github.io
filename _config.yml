@@ -20,7 +20,7 @@ title                    : "Vilius Darius Praninskas"
 title_separator          : "-"
 subtitle                 : "Resume website"
 name                     : "Vilius Darius Praninskas"
-description              : "A guy that wants to work in tech."
+description              : "A guy who wants to work in tech."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Vilius Darius Praninskas"
   avatar           : "/assets/images/as.jpg"
-  bio              : "A guy that wants to work in tech :)"
+  bio              : "A guy who wants to work in tech :)"
   location         : "Vilnius, Lithuania"
   email            : "praninskas.vilius@gmail.com"
   links:    
